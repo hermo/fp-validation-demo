@@ -1,0 +1,26 @@
+{
+  "name": "fp-validation-demo",
+  "version": "0.0.0",
+  "description": "Tiny example of composable functional validators",
+  "main": "index.coffee",
+  "scripts": {
+    "start": "coffee index.coffee"
+  },
+  "author": {
+    "name": "Mirko Grönroos",
+    "email": "mirko@mirko.fi",
+    "url": "https://twitter.com/hermo"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.8.0",
+    "colors": "^1.0.3",
+    "ramda": "^0.8.0",
+    "sprintf": "^0.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hermo/fp-validation-demo.git"
+  },
+  "homepage": "https://github.com/hermo/fp-validation-demo"
+}
